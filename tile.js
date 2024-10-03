@@ -6,6 +6,7 @@ export class Tile {
         gridElement.append(this.tileElement)
 
     }
+    // 
     setXY(x, y) {
         this.x = x
         this.y = y
